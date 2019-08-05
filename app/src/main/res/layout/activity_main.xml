@@ -48,6 +48,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
+                android:textColor="@color/black"
                 android:text="@string/business_name"
                 android:textSize="@dimen/sp_22" />
 
@@ -176,6 +177,7 @@
                 android:id="@+id/employer_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/black"
                 android:text="@string/bussiness_name"
                 android:textStyle="bold" />
 
@@ -237,12 +239,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/about"
+                android:textColor="@color/black"
                 android:textStyle="bold" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/dp_8"
+                android:layout_marginBottom="@dimen/dp_8"
                 android:text="@string/description" />
 
         </LinearLayout>

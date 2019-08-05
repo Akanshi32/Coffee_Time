@@ -1,0 +1,22 @@
+<resources>
+    <string name="Business_App">CoffeeApp</string>
+    <string name="picture_of_the_sports">Picture Of Coffee Time</string>
+    <string name="bussiness_name">Coffee Time - Coffee Day Company</string>
+    <string name="address">Kormangala, Bengaluru, Karnataka 560102</string>
+    <string name="phone_number">012 345 6789</string>
+    <string name="description">Coffee Time is an establishment that primarily serves coffee, related coffee drinks (latte, cappuccino, espresso), and – depending on country – other drinks including alcoholic. We may serve cold drinks such as iced coffee and iced tea; in continental Europe. We also serve some type of food, such as light snacks, sandwiches, muffins or other pastries.</string>
+    <string name="icon_address">Address</string>
+    <string name="icon_phone">Phone</string>
+    <string name="cover_photo">Cover Photo</string>
+    <string name="business_name">Coffee Time</string>
+    <string name="bengaluru_india">Bengaluru, India</string>
+    <string name="dash">--------</string>
+    <string name="desc_1">Start your day with a coffee</string>
+    <string name="likes_value">256</string>
+    <string name="likes">Likes</string>
+    <string name="followers_value">2,080</string>
+    <string name="followers">Followers</string>
+    <string name="following_value">144</string>
+    <string name="following">Following</string>
+    <string name="about">About Company</string>
+</resources>
